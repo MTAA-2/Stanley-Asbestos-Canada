@@ -142,7 +142,7 @@ body {
       rgba(var(--overlay-rgb), var(--overlay-opacity)),
       rgba(var(--overlay-rgb), var(--overlay-opacity))
     ),
-    url("YOUR-IMAGE-URL-HERE");   /* placeholder — replace with the image URL to be provided */
+    url("https://asbestosjusticehelp.com/images/lung1.png");   /* placeholder — replace with the image URL to be provided */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -164,7 +164,7 @@ body {
       rgba(var(--overlay-rgb), var(--overlay-opacity)),
       rgba(var(--overlay-rgb), var(--overlay-opacity))
     ),
-    url("YOUR-IMAGE-URL-HERE-2");   /* placeholder — replace with the image URL to be provided */
+    url("https://asbestosjusticehelp.com/images/worker1.png");   /* placeholder — replace with the image URL to be provided */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -186,7 +186,7 @@ body {
       rgba(var(--overlay-rgb), var(--overlay-opacity)),
       rgba(var(--overlay-rgb), var(--overlay-opacity))
     ),
-    url("YOUR-IMAGE-URL-HERE-3");   /* placeholder — replace with the image URL to be provided */
+    url("https://asbestosjusticehelp.com/images/law1.jpg");   /* placeholder — replace with the image URL to be provided */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
