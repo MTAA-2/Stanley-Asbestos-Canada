@@ -61,7 +61,7 @@ body {
 /* ---------- Header ---------- */
 
 .site-header { background: linear-gradient(#a2a2a2, #fff); ; }
-.header-inner { display: flex; justify-content: space-between; align-items: center; padding-top: 8px; padding-bottom: 0px; }
+.header-inner { display: flex; justify-content: space-between; align-items: center; padding-top: 3px; padding-bottom: 3px; }
 .logo { text-decoration: none; color: var(--navy); }
 .logo-text { font-family: "Inter", Arial, Helvetica, sans-serif; font-weight: 700; font-size: 24px; letter-spacing: 0.01em; }
 .logo-amp { color: var(--gold); }
@@ -136,7 +136,7 @@ body {
    and a color overlay. Adjust --overlay-opacity: 0 = no tint, 1 = solid color. */
 .section-parallax {
   --overlay-rgb: 54, 91, 111;      /* overlay color as R, G, B — the sample's lower-section teal #365B6F */
-  --overlay-opacity: 0.65;        /* overlay strength */
+  --overlay-opacity: 0.82;        /* overlay strength */
   background-image:
     linear-gradient(
       rgba(var(--overlay-rgb), var(--overlay-opacity)),
